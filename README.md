@@ -47,7 +47,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **PROGRAM**
 
 ~~~python
-module exp7(q,qb,j,k,clk);
+module exp4(q,qb,j,k,clk);
 input j,k,clk;
 output reg q;
 output qb;
